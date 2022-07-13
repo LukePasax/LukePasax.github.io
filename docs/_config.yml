@@ -28,7 +28,8 @@ twitter_username:
 github_username:  LukePasax
 
 # Build settings
-remote_theme: pages-themes/merlot@v0.2.0
+theme: jekyll-theme-merlot
+remote_theme: pages-themes/merlot
 plugins:
   - jekyll-feed
   - jekyll-remote-theme 
@@ -52,5 +53,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-theme: jekyll-theme-merlot
